@@ -1,5 +1,5 @@
 {
-    "CrazySmashHit": false,
+    "CrazySmashHit": true,
     "TrafficDrivingSum": false,
     "OtherAds": true
 }
